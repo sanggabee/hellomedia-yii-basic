@@ -1,0 +1,1 @@
+This is a template yii include css and js hellomedia
